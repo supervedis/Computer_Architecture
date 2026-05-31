@@ -1,0 +1,47 @@
+# Compiled LaTeX files (all chapters)
+**/*.aux
+**/*.log
+**/*.pdf
+**/*.dvi
+**/*.ps
+**/*.out
+**/*.bbl
+**/*.blg
+**/*.fls
+**/*.fdb_latexmk
+**/*.synctex.gz
+**/*.synctex(busy)
+
+# Build output directories
+**/build/
+**/dist/
+*.o
+*.obj
+
+# LaTeX Beamer files
+**/*.nav
+**/*.snm
+**/*.vrb
+
+# Glossaries
+**/*.glg
+**/*.glo
+**/*.gls
+
+# PGFPlots
+**/*.makefile
+**/*.figlist
+
+# Temporary files
+**/*.tmp
+**/tmp/
+
+# Editor and IDE files (repository-wide)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
