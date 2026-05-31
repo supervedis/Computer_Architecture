@@ -1,7 +1,6 @@
 # Compiled LaTeX files (all chapters)
 **/*.aux
 **/*.log
-**/*.pdf
 **/*.dvi
 **/*.ps
 **/*.out
